@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="LoginTest">
+
+	<test name="ecommerce Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.login.testCases.TC_LoginFailTest" />
+			<class name="com.login.testCases.TC_LoginPassTest" />
+			<class name="com.login.testCases.TC_HomePageTest" />
+			 <class name="com.login.testCases.TC_BasketPageTest" />
+			 <class name="com.login.testCases.TC_RemoveItemTest" />
+	 			 
+			
+		</classes>
+
+	</test>
+
+</suite>

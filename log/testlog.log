@@ -1,0 +1,392 @@
+2021-10-13 20:01:43,730 - eCommerce -INFO - Url is opened
+2021-10-13 20:01:43,980 - eCommerce -INFO - Entered username
+2021-10-13 20:01:44,161 - eCommerce -INFO - Entered password
+2021-10-13 20:01:47,402 - eCommerce -INFO - Login test passed
+2021-10-13 21:48:40,354 - eCommerce -INFO - Url is opened
+2021-10-13 21:48:40,575 - eCommerce -INFO - Entered username
+2021-10-13 21:48:40,736 - eCommerce -INFO - Entered password
+2021-10-13 21:48:44,000 - eCommerce -INFO - Login test passed
+2021-10-13 22:39:20,451 - eCommerce -INFO - Url is opened
+2021-10-13 22:39:21,824 - eCommerce -INFO - Entered username
+2021-10-13 22:39:21,958 - eCommerce -INFO - Entered password
+2021-10-13 22:39:25,190 - eCommerce -INFO - Login test passed
+2021-10-13 23:33:58,361 - eCommerce -INFO - Url is opened
+2021-10-13 23:33:58,769 - eCommerce -INFO - Entered username
+2021-10-13 23:33:58,884 - eCommerce -INFO - Entered password
+2021-10-13 23:34:02,035 - eCommerce -INFO - Url is opened
+2021-10-13 23:35:31,113 - eCommerce -INFO - Url is opened
+2021-10-13 23:35:31,403 - eCommerce -INFO - Entered username
+2021-10-13 23:35:31,573 - eCommerce -INFO - Entered password
+2021-10-13 23:35:34,738 - eCommerce -INFO - Url is opened
+2021-10-13 23:43:06,554 - eCommerce -INFO - Url is opened
+2021-10-13 23:43:06,891 - eCommerce -INFO - Entered username
+2021-10-13 23:43:07,126 - eCommerce -INFO - Entered password
+2021-10-13 23:43:10,294 - eCommerce -INFO - Url is opened
+2021-10-13 23:43:16,207 - eCommerce -INFO - Url is opened
+2021-10-13 23:43:16,252 - eCommerce -INFO - Url is opened
+2021-10-13 23:47:28,762 - eCommerce -INFO - Url is opened
+2021-10-13 23:47:29,083 - eCommerce -INFO - standard_user
+2021-10-13 23:47:29,084 - eCommerce -INFO - Entered username
+2021-10-13 23:47:29,249 - eCommerce -INFO - w3t67k8
+2021-10-13 23:47:29,250 - eCommerce -INFO - Entered password
+2021-10-13 23:47:32,436 - eCommerce -INFO - Url is opened
+2021-10-13 23:49:10,487 - eCommerce -INFO - Url is opened
+2021-10-13 23:49:10,736 - eCommerce -INFO - standard_user
+2021-10-13 23:49:10,737 - eCommerce -INFO - Entered username
+2021-10-13 23:49:10,890 - eCommerce -INFO - w3t67k8
+2021-10-13 23:49:10,890 - eCommerce -INFO - Entered password
+2021-10-13 23:49:14,087 - eCommerce -INFO - Url is opened
+2021-10-13 23:56:50,884 - eCommerce -INFO - Url is opened
+2021-10-13 23:56:51,132 - eCommerce -INFO - standard_user
+2021-10-13 23:56:51,133 - eCommerce -INFO - Entered username
+2021-10-13 23:56:51,249 - eCommerce -INFO - w3t67k8
+2021-10-13 23:56:51,250 - eCommerce -INFO - Entered password
+2021-10-13 23:56:54,975 - eCommerce -INFO - Url is opened
+2021-10-13 23:59:00,811 - eCommerce -INFO - Url is opened
+2021-10-13 23:59:01,112 - eCommerce -INFO - standard_user
+2021-10-13 23:59:01,113 - eCommerce -INFO - Entered username
+2021-10-13 23:59:01,320 - eCommerce -INFO - w3t67k8
+2021-10-13 23:59:01,321 - eCommerce -INFO - Entered password
+2021-10-13 23:59:04,615 - eCommerce -INFO - Url is opened
+2021-10-14 00:05:14,774 - eCommerce -INFO - Url is opened
+2021-10-14 00:07:44,834 - eCommerce -INFO - Url is opened
+2021-10-14 00:08:53,886 - eCommerce -INFO - 
+2021-10-14 00:08:53,892 - eCommerce -INFO - Url is opened
+2021-10-14 00:13:54,001 - eCommerce -INFO - 
+2021-10-14 00:13:54,009 - eCommerce -INFO - Url is opened
+2021-10-14 00:16:17,941 - eCommerce -INFO - 
+2021-10-14 00:16:17,948 - eCommerce -INFO - Url is opened
+2021-10-14 00:19:05,246 - eCommerce -INFO - File Call
+2021-10-14 00:19:06,326 - eCommerce -INFO - 1
+2021-10-14 00:19:06,327 - eCommerce -INFO - 2
+2021-10-14 00:19:06,349 - eCommerce -INFO - 
+2021-10-14 00:19:06,350 - eCommerce -INFO - Url is opened
+2021-10-14 00:20:15,740 - eCommerce -INFO - File Call
+2021-10-14 00:20:16,886 - eCommerce -INFO - 1
+2021-10-14 00:20:16,887 - eCommerce -INFO - 2
+2021-10-14 00:20:17,046 - eCommerce -INFO - standard_user
+2021-10-14 00:20:17,047 - eCommerce -INFO - Url is opened
+2021-10-14 00:20:17,332 - eCommerce -INFO - standard_user
+2021-10-14 00:20:17,333 - eCommerce -INFO - Entered username
+2021-10-14 00:20:17,522 - eCommerce -INFO - secret_sauce
+2021-10-14 00:20:17,522 - eCommerce -INFO - Entered password
+2021-10-14 00:20:20,864 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (f06959e31b7e962517e0154d4be3f216)] -> class name: title]
+2021-10-14 00:21:56,334 - eCommerce -INFO - Url is opened
+2021-10-14 00:21:56,679 - eCommerce -INFO - standard_user
+2021-10-14 00:21:56,679 - eCommerce -INFO - Entered username
+2021-10-14 00:21:56,911 - eCommerce -INFO - secret_sauce
+2021-10-14 00:21:56,912 - eCommerce -INFO - Entered password
+2021-10-14 00:22:00,213 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (bff9291b1d54dc0648022fa4e63f9d90)] -> class name: title]
+2021-10-14 00:22:00,216 - eCommerce -INFO - Login test passed
+2021-10-14 00:26:01,390 - eCommerce -INFO - Url is opened
+2021-10-14 00:26:01,648 - eCommerce -INFO - Entered username
+2021-10-14 00:26:01,773 - eCommerce -INFO - Entered password
+2021-10-14 00:26:09,063 - eCommerce -INFO - Url is opened
+2021-10-14 00:26:09,224 - eCommerce -INFO - standard_user
+2021-10-14 00:26:09,225 - eCommerce -INFO - Entered username
+2021-10-14 00:26:09,361 - eCommerce -INFO - secret_sauce
+2021-10-14 00:26:09,362 - eCommerce -INFO - Entered password
+2021-10-14 00:27:32,083 - eCommerce -INFO - Url is opened
+2021-10-14 00:27:32,389 - eCommerce -INFO - Entered username
+2021-10-14 00:27:32,538 - eCommerce -INFO - Entered password
+2021-10-14 00:27:40,442 - eCommerce -INFO - Url is opened
+2021-10-14 00:27:40,644 - eCommerce -INFO - standard_user
+2021-10-14 00:27:40,644 - eCommerce -INFO - Entered username
+2021-10-14 00:27:40,807 - eCommerce -INFO - secret_sauce
+2021-10-14 00:27:40,808 - eCommerce -INFO - Entered password
+2021-10-14 00:27:44,042 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (26a204f7cbd106bc3a490bf86ed1c559)] -> class name: title]
+2021-10-14 00:27:44,046 - eCommerce -INFO - Login test passed
+2021-10-14 00:31:13,033 - eCommerce -INFO - Url is opened
+2021-10-14 00:31:13,389 - eCommerce -INFO - Entered username
+2021-10-14 00:31:13,535 - eCommerce -INFO - Entered password
+2021-10-14 00:31:16,704 - eCommerce -INFO - Login test passed
+2021-10-14 00:31:30,600 - eCommerce -INFO - Url is opened
+2021-10-14 00:31:30,847 - eCommerce -INFO - standard_user
+2021-10-14 00:31:30,992 - eCommerce -INFO - Entered username
+2021-10-14 00:31:31,147 - eCommerce -INFO - secret_sauce
+2021-10-14 00:31:31,148 - eCommerce -INFO - Entered password
+2021-10-14 00:31:34,327 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (fb57f12452c1da5c8b22b40f8917e64a)] -> class name: title]
+2021-10-14 00:31:34,328 - eCommerce -INFO - Login test passed
+2021-10-14 00:33:43,589 - eCommerce -INFO - Url is opened
+2021-10-14 00:33:43,821 - eCommerce -INFO - Entered username
+2021-10-14 00:33:43,955 - eCommerce -INFO - Entered password
+2021-10-14 00:33:47,094 - eCommerce -INFO - Login test passed
+2021-10-14 00:33:53,753 - eCommerce -INFO - Url is opened
+2021-10-14 00:33:53,949 - eCommerce -INFO - standard_user
+2021-10-14 00:33:53,950 - eCommerce -INFO - Entered username
+2021-10-14 00:33:54,128 - eCommerce -INFO - secret_sauce
+2021-10-14 00:33:54,129 - eCommerce -INFO - Entered password
+2021-10-14 00:33:57,389 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (9cdafe9ad04064d9bd4f829853a0258f)] -> class name: title]
+2021-10-14 00:33:57,390 - eCommerce -INFO - Login test passed
+2021-10-14 00:36:18,867 - eCommerce -INFO - Url is opened
+2021-10-14 00:36:19,170 - eCommerce -INFO - Entered username
+2021-10-14 00:36:19,300 - eCommerce -INFO - Entered password
+2021-10-14 00:36:22,458 - eCommerce -INFO - Login test passed
+2021-10-14 00:36:26,874 - eCommerce -INFO - Url is opened
+2021-10-14 00:36:27,070 - eCommerce -INFO - standard_user
+2021-10-14 00:36:27,071 - eCommerce -INFO - Entered username
+2021-10-14 00:36:27,261 - eCommerce -INFO - secret_sauce
+2021-10-14 00:36:27,261 - eCommerce -INFO - Entered password
+2021-10-14 00:36:30,518 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (76bc69d0bcb18571e97c4e2579cbcff5)] -> class name: title]
+2021-10-14 00:36:30,519 - eCommerce -INFO - Login test passed
+2021-10-14 00:38:04,715 - eCommerce -INFO - Url is opened
+2021-10-14 00:38:05,048 - eCommerce -INFO - Entered username
+2021-10-14 00:38:05,202 - eCommerce -INFO - Entered password
+2021-10-14 00:38:08,358 - eCommerce -INFO - Login test passed
+2021-10-14 00:38:12,884 - eCommerce -INFO - Url is opened
+2021-10-14 00:38:13,042 - eCommerce -INFO - standard_user
+2021-10-14 00:38:13,042 - eCommerce -INFO - Entered username
+2021-10-14 00:38:13,180 - eCommerce -INFO - secret_sauce
+2021-10-14 00:38:13,181 - eCommerce -INFO - Entered password
+2021-10-14 00:38:16,431 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (78f9a4eb13263f7a468268f52fc7f505)] -> class name: title]
+2021-10-14 00:38:16,432 - eCommerce -INFO - Login test passed
+2021-10-14 00:42:28,743 - eCommerce -INFO - Url is opened
+2021-10-14 00:42:29,025 - eCommerce -INFO - Entered username
+2021-10-14 00:42:29,200 - eCommerce -INFO - Entered password
+2021-10-14 00:42:32,371 - eCommerce -INFO - Login test passed
+2021-10-14 00:42:36,503 - eCommerce -INFO - Url is opened
+2021-10-14 00:42:36,668 - eCommerce -INFO - standard_user
+2021-10-14 00:42:36,669 - eCommerce -INFO - Entered username
+2021-10-14 00:42:36,832 - eCommerce -INFO - secret_sauce
+2021-10-14 00:42:36,833 - eCommerce -INFO - Entered password
+2021-10-14 00:42:40,091 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (0914a16461f9385aa3b3911f9d5400de)] -> class name: title]
+2021-10-14 00:42:40,091 - eCommerce -INFO - Login test passed
+2021-10-14 00:42:47,296 - eCommerce -INFO - Url is opened
+2021-10-14 00:42:47,495 - eCommerce -INFO - standard_user
+2021-10-14 00:42:47,495 - eCommerce -INFO - Entered username
+2021-10-14 00:42:47,648 - eCommerce -INFO - secret_sauce
+2021-10-14 00:42:47,648 - eCommerce -INFO - Entered password
+2021-10-14 00:42:50,944 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 00:51:49,375 - eCommerce -INFO - Url is opened
+2021-10-14 00:53:51,071 - eCommerce -INFO - Url is opened
+2021-10-14 00:53:51,355 - eCommerce -INFO - standard_user
+2021-10-14 00:53:51,355 - eCommerce -INFO - Entered username
+2021-10-14 00:53:51,581 - eCommerce -INFO - secret_sauce
+2021-10-14 00:53:51,582 - eCommerce -INFO - Entered password
+2021-10-14 00:53:54,873 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 00:55:23,434 - eCommerce -INFO - Url is opened
+2021-10-14 00:55:23,724 - eCommerce -INFO - standard_user
+2021-10-14 00:55:23,725 - eCommerce -INFO - Entered username
+2021-10-14 00:55:23,952 - eCommerce -INFO - secret_sauce
+2021-10-14 00:55:23,952 - eCommerce -INFO - Entered password
+2021-10-14 00:55:27,335 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 00:59:18,422 - eCommerce -INFO - Url is opened
+2021-10-14 00:59:18,812 - eCommerce -INFO - standard_user
+2021-10-14 00:59:18,813 - eCommerce -INFO - Entered username
+2021-10-14 00:59:19,034 - eCommerce -INFO - secret_sauce
+2021-10-14 00:59:19,035 - eCommerce -INFO - Entered password
+2021-10-14 00:59:22,354 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 01:05:46,707 - eCommerce -INFO - Url is opened
+2021-10-14 01:05:46,965 - eCommerce -INFO - standard_user
+2021-10-14 01:05:46,967 - eCommerce -INFO - Entered username
+2021-10-14 01:05:47,194 - eCommerce -INFO - secret_sauce
+2021-10-14 01:05:47,195 - eCommerce -INFO - Entered password
+2021-10-14 01:05:50,398 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 01:05:53,651 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (6a3fa4539df3c42b1fa18d170b672fe1)] -> class name: inventory_item_price]
+2021-10-14 01:05:53,652 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (6a3fa4539df3c42b1fa18d170b672fe1)] -> class name: inventory_item_price]
+2021-10-14 01:05:53,652 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (6a3fa4539df3c42b1fa18d170b672fe1)] -> class name: inventory_item_price]
+2021-10-14 01:05:53,653 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (6a3fa4539df3c42b1fa18d170b672fe1)] -> class name: inventory_item_price]
+2021-10-14 01:05:53,654 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (6a3fa4539df3c42b1fa18d170b672fe1)] -> class name: inventory_item_price]
+2021-10-14 01:05:53,655 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (6a3fa4539df3c42b1fa18d170b672fe1)] -> class name: inventory_item_price]
+2021-10-14 01:07:18,974 - eCommerce -INFO - Url is opened
+2021-10-14 01:07:19,347 - eCommerce -INFO - standard_user
+2021-10-14 01:07:19,348 - eCommerce -INFO - Entered username
+2021-10-14 01:07:19,526 - eCommerce -INFO - secret_sauce
+2021-10-14 01:07:19,527 - eCommerce -INFO - Entered password
+2021-10-14 01:07:22,836 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 01:07:26,053 - eCommerce -INFO - $7.99
+2021-10-14 01:07:26,071 - eCommerce -INFO - $9.99
+2021-10-14 01:07:26,086 - eCommerce -INFO - $15.99
+2021-10-14 01:07:26,100 - eCommerce -INFO - $15.99
+2021-10-14 01:07:26,114 - eCommerce -INFO - $29.99
+2021-10-14 01:07:26,135 - eCommerce -INFO - $49.99
+2021-10-14 01:15:04,933 - eCommerce -INFO - Url is opened
+2021-10-14 01:15:05,277 - eCommerce -INFO - standard_user
+2021-10-14 01:15:05,278 - eCommerce -INFO - Entered username
+2021-10-14 01:15:05,500 - eCommerce -INFO - secret_sauce
+2021-10-14 01:15:05,501 - eCommerce -INFO - Entered password
+2021-10-14 01:15:08,824 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 11:03:59,031 - eCommerce -INFO - Url is opened
+2021-10-14 11:03:59,441 - eCommerce -INFO - standard_user
+2021-10-14 11:03:59,442 - eCommerce -INFO - Entered username
+2021-10-14 11:03:59,569 - eCommerce -INFO - secret_sauce
+2021-10-14 11:03:59,569 - eCommerce -INFO - Entered password
+2021-10-14 11:04:02,767 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (3d0ab18e4583d496befa57d53e571796)] -> xpath: //*[contains(text(), '3')]]
+2021-10-14 11:18:27,685 - eCommerce -INFO - Url is opened
+2021-10-14 11:18:27,959 - eCommerce -INFO - standard_user
+2021-10-14 11:18:27,960 - eCommerce -INFO - Entered username
+2021-10-14 11:18:28,137 - eCommerce -INFO - secret_sauce
+2021-10-14 11:18:28,138 - eCommerce -INFO - Entered password
+2021-10-14 11:18:31,355 - eCommerce -INFO - A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+2021-10-14 11:43:56,305 - eCommerce -INFO - Url is opened
+2021-10-14 11:43:56,555 - eCommerce -INFO - standard_user
+2021-10-14 11:43:56,555 - eCommerce -INFO - Entered username
+2021-10-14 11:43:56,684 - eCommerce -INFO - secret_sauce
+2021-10-14 11:43:56,684 - eCommerce -INFO - Entered password
+2021-10-14 11:53:16,892 - eCommerce -INFO - Url is opened
+2021-10-14 11:53:17,055 - eCommerce -INFO - standard_user
+2021-10-14 11:53:17,055 - eCommerce -INFO - Entered username
+2021-10-14 11:53:17,176 - eCommerce -INFO - secret_sauce
+2021-10-14 11:53:17,176 - eCommerce -INFO - Entered password
+2021-10-14 11:53:23,570 - eCommerce -INFO - 3
+2021-10-14 12:06:57,141 - eCommerce -INFO - Url is opened
+2021-10-14 12:06:58,391 - eCommerce -INFO - standard_user
+2021-10-14 12:06:58,392 - eCommerce -INFO - Entered username
+2021-10-14 12:06:58,520 - eCommerce -INFO - secret_sauce
+2021-10-14 12:06:58,521 - eCommerce -INFO - Entered password
+2021-10-14 12:08:39,408 - eCommerce -INFO - Url is opened
+2021-10-14 12:08:39,723 - eCommerce -INFO - standard_user
+2021-10-14 12:08:39,724 - eCommerce -INFO - Entered username
+2021-10-14 12:08:39,917 - eCommerce -INFO - secret_sauce
+2021-10-14 12:08:39,918 - eCommerce -INFO - Entered password
+2021-10-14 12:12:37,035 - eCommerce -INFO - Url is opened
+2021-10-14 12:12:37,476 - eCommerce -INFO - standard_user
+2021-10-14 12:12:37,477 - eCommerce -INFO - Entered username
+2021-10-14 12:12:37,609 - eCommerce -INFO - secret_sauce
+2021-10-14 12:12:37,610 - eCommerce -INFO - Entered password
+2021-10-14 12:15:21,973 - eCommerce -INFO - Url is opened
+2021-10-14 12:15:22,173 - eCommerce -INFO - standard_user
+2021-10-14 12:15:22,174 - eCommerce -INFO - Entered username
+2021-10-14 12:15:22,321 - eCommerce -INFO - secret_sauce
+2021-10-14 12:15:22,322 - eCommerce -INFO - Entered password
+2021-10-14 12:15:28,994 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 13:03:44,663 - eCommerce -INFO - Url is opened
+2021-10-14 13:03:45,731 - eCommerce -INFO - standard_user
+2021-10-14 13:03:45,732 - eCommerce -INFO - Entered username
+2021-10-14 13:03:45,858 - eCommerce -INFO - secret_sauce
+2021-10-14 13:03:45,859 - eCommerce -INFO - Entered password
+2021-10-14 13:05:34,011 - eCommerce -INFO - Url is opened
+2021-10-14 13:05:34,232 - eCommerce -INFO - standard_user
+2021-10-14 13:05:34,232 - eCommerce -INFO - Entered username
+2021-10-14 13:05:34,382 - eCommerce -INFO - secret_sauce
+2021-10-14 13:05:34,383 - eCommerce -INFO - Entered password
+2021-10-14 13:09:32,317 - eCommerce -INFO - Url is opened
+2021-10-14 13:09:32,503 - eCommerce -INFO - standard_user
+2021-10-14 13:09:32,503 - eCommerce -INFO - Entered username
+2021-10-14 13:09:32,637 - eCommerce -INFO - secret_sauce
+2021-10-14 13:09:32,637 - eCommerce -INFO - Entered password
+2021-10-14 13:09:40,046 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 13:35:23,893 - eCommerce -INFO - Url is opened
+2021-10-14 13:35:24,321 - eCommerce -INFO - standard_user
+2021-10-14 13:35:24,321 - eCommerce -INFO - Entered username
+2021-10-14 13:35:24,465 - eCommerce -INFO - secret_sauce
+2021-10-14 13:35:24,466 - eCommerce -INFO - Entered password
+2021-10-14 13:54:21,636 - eCommerce -INFO - Url is opened
+2021-10-14 13:54:22,076 - eCommerce -INFO - standard_user
+2021-10-14 13:54:22,077 - eCommerce -INFO - Entered username
+2021-10-14 13:54:22,195 - eCommerce -INFO - secret_sauce
+2021-10-14 13:54:22,196 - eCommerce -INFO - Entered password
+2021-10-14 13:54:28,758 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 13:55:42,403 - eCommerce -INFO - Url is opened
+2021-10-14 13:55:42,689 - eCommerce -INFO - standard_user
+2021-10-14 13:55:42,690 - eCommerce -INFO - Entered username
+2021-10-14 13:55:42,896 - eCommerce -INFO - secret_sauce
+2021-10-14 13:55:42,897 - eCommerce -INFO - Entered password
+2021-10-14 13:55:49,511 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 13:58:19,141 - eCommerce -INFO - Url is opened
+2021-10-14 13:58:19,384 - eCommerce -INFO - standard_user
+2021-10-14 13:58:19,384 - eCommerce -INFO - Entered username
+2021-10-14 13:58:19,571 - eCommerce -INFO - secret_sauce
+2021-10-14 13:58:19,572 - eCommerce -INFO - Entered password
+2021-10-14 13:58:26,162 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 14:12:53,783 - eCommerce -INFO - Url is opened
+2021-10-14 14:12:54,194 - eCommerce -INFO - standard_user
+2021-10-14 14:12:54,194 - eCommerce -INFO - Entered username
+2021-10-14 14:12:54,326 - eCommerce -INFO - secret_sauce
+2021-10-14 14:12:54,326 - eCommerce -INFO - Entered password
+2021-10-14 14:12:57,922 - eCommerce -INFO - itemreoved
+2021-10-14 14:13:00,976 - eCommerce -INFO - Item removed successfully
+2021-10-14 14:15:41,374 - eCommerce -INFO - Url is opened
+2021-10-14 14:15:41,680 - eCommerce -INFO - standard_user
+2021-10-14 14:15:41,680 - eCommerce -INFO - Entered username
+2021-10-14 14:15:41,830 - eCommerce -INFO - secret_sauce
+2021-10-14 14:15:41,883 - eCommerce -INFO - Entered password
+2021-10-14 14:15:45,386 - eCommerce -INFO - itemremoved
+2021-10-14 14:15:48,413 - eCommerce -INFO - Item removed successfully
+2021-10-14 14:17:52,672 - eCommerce -INFO - Url is opened
+2021-10-14 14:17:52,955 - eCommerce -INFO - standard_user
+2021-10-14 14:17:52,956 - eCommerce -INFO - Entered username
+2021-10-14 14:17:53,145 - eCommerce -INFO - secret_sauce
+2021-10-14 14:17:53,145 - eCommerce -INFO - Entered password
+2021-10-14 14:17:59,754 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 14:19:59,461 - eCommerce -INFO - Url is opened
+2021-10-14 14:19:59,966 - eCommerce -INFO - standard_user
+2021-10-14 14:19:59,967 - eCommerce -INFO - Entered username
+2021-10-14 14:20:00,250 - eCommerce -INFO - secret_sauce
+2021-10-14 14:20:00,251 - eCommerce -INFO - Entered password
+2021-10-14 14:20:03,550 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 14:21:53,523 - eCommerce -INFO - Url is opened
+2021-10-14 14:21:53,683 - eCommerce -INFO - standard_user
+2021-10-14 14:21:53,684 - eCommerce -INFO - Entered username
+2021-10-14 14:21:53,800 - eCommerce -INFO - secret_sauce
+2021-10-14 14:21:53,800 - eCommerce -INFO - Entered password
+2021-10-14 14:21:57,000 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (6d44814d3a5e39c19305e55c844c6b74)] -> class name: title]
+2021-10-14 14:21:57,006 - eCommerce -INFO - Login test passed
+2021-10-14 14:26:09,892 - eCommerce -INFO - Url is opened
+2021-10-14 14:26:10,163 - eCommerce -INFO - Entered username
+2021-10-14 14:26:10,315 - eCommerce -INFO - Entered password
+2021-10-14 14:26:13,495 - eCommerce -INFO - Login test passed
+2021-10-14 15:22:36,930 - eCommerce -INFO - Url is opened
+2021-10-14 15:22:37,576 - eCommerce -INFO - Entered username
+2021-10-14 15:22:37,681 - eCommerce -INFO - Entered password
+2021-10-14 15:22:40,798 - eCommerce -INFO - Login test passed
+2021-10-14 18:46:03,927 - eCommerce -INFO - Url is opened
+2021-10-14 18:46:04,474 - eCommerce -INFO - Entered username
+2021-10-14 18:46:04,927 - eCommerce -INFO - Entered password
+2021-10-14 18:46:08,053 - eCommerce -INFO - Login test passed
+2021-10-14 18:46:15,085 - eCommerce -INFO - Url is opened
+2021-10-14 18:46:15,375 - eCommerce -INFO - standard_user
+2021-10-14 18:46:15,376 - eCommerce -INFO - Entered username
+2021-10-14 18:46:15,515 - eCommerce -INFO - secret_sauce
+2021-10-14 18:46:15,516 - eCommerce -INFO - Entered password
+2021-10-14 18:46:19,075 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (1536e2a45a45f719c1975526477bcb9b)] -> class name: title]
+2021-10-14 18:46:19,076 - eCommerce -INFO - Login test passed
+2021-10-14 18:46:27,032 - eCommerce -INFO - Url is opened
+2021-10-14 18:46:27,229 - eCommerce -INFO - standard_user
+2021-10-14 18:46:27,229 - eCommerce -INFO - Entered username
+2021-10-14 18:46:27,360 - eCommerce -INFO - secret_sauce
+2021-10-14 18:46:27,360 - eCommerce -INFO - Entered password
+2021-10-14 18:46:30,623 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 18:46:41,808 - eCommerce -INFO - Url is opened
+2021-10-14 18:46:42,000 - eCommerce -INFO - standard_user
+2021-10-14 18:46:42,001 - eCommerce -INFO - Entered username
+2021-10-14 18:46:42,145 - eCommerce -INFO - secret_sauce
+2021-10-14 18:46:42,146 - eCommerce -INFO - Entered password
+2021-10-14 18:46:48,693 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 18:46:59,431 - eCommerce -INFO - Url is opened
+2021-10-14 18:46:59,626 - eCommerce -INFO - standard_user
+2021-10-14 18:46:59,627 - eCommerce -INFO - Entered username
+2021-10-14 18:46:59,788 - eCommerce -INFO - secret_sauce
+2021-10-14 18:46:59,788 - eCommerce -INFO - Entered password
+2021-10-14 18:47:03,408 - eCommerce -INFO - itemremoved
+2021-10-14 18:47:06,428 - eCommerce -INFO - Item removed successfully
+2021-10-14 18:50:57,229 - eCommerce -INFO - Url is opened
+2021-10-14 18:50:57,689 - eCommerce -INFO - Entered username
+2021-10-14 18:50:57,818 - eCommerce -INFO - Entered password
+2021-10-14 18:50:58,947 - eCommerce -INFO - Login test passed
+2021-10-14 18:51:07,036 - eCommerce -INFO - Url is opened
+2021-10-14 18:51:07,216 - eCommerce -INFO - standard_user
+2021-10-14 18:51:07,217 - eCommerce -INFO - Entered username
+2021-10-14 18:51:07,387 - eCommerce -INFO - secret_sauce
+2021-10-14 18:51:07,387 - eCommerce -INFO - Entered password
+2021-10-14 18:51:08,956 - eCommerce -INFO - [[ChromeDriver: chrome on WINDOWS (7b1f3973d4a93816fded940fe510fb79)] -> class name: title]
+2021-10-14 18:51:08,956 - eCommerce -INFO - Login test passed
+2021-10-14 18:51:17,697 - eCommerce -INFO - Url is opened
+2021-10-14 18:51:17,902 - eCommerce -INFO - standard_user
+2021-10-14 18:51:17,902 - eCommerce -INFO - Entered username
+2021-10-14 18:51:18,056 - eCommerce -INFO - secret_sauce
+2021-10-14 18:51:18,056 - eCommerce -INFO - Entered password
+2021-10-14 18:51:20,446 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 18:51:36,649 - eCommerce -INFO - Url is opened
+2021-10-14 18:51:36,826 - eCommerce -INFO - standard_user
+2021-10-14 18:51:36,826 - eCommerce -INFO - Entered username
+2021-10-14 18:51:36,986 - eCommerce -INFO - secret_sauce
+2021-10-14 18:51:36,986 - eCommerce -INFO - Entered password
+2021-10-14 18:51:43,743 - eCommerce -INFO - Item Count Test case passed
+2021-10-14 18:51:49,399 - eCommerce -INFO - Url is opened
+2021-10-14 18:51:49,591 - eCommerce -INFO - standard_user
+2021-10-14 18:51:49,592 - eCommerce -INFO - Entered username
+2021-10-14 18:51:49,757 - eCommerce -INFO - secret_sauce
+2021-10-14 18:51:49,757 - eCommerce -INFO - Entered password
+2021-10-14 18:51:56,671 - eCommerce -INFO - itemremoved
+2021-10-14 18:51:59,699 - eCommerce -INFO - Item removed successfully
